@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "avisek12/node-todo-cicd-app:lates"
+    image: "avisek12/node-todo-cicd-app:latest"
     ports:
       - "8000:8000"
